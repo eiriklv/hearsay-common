@@ -4,16 +4,13 @@
   "version": "0.0.1",
   "main": "./lib/index",
   "description": "Common resources for Hearsay",
-  "dependencies": {
-    "bcrypt": "0.7.x"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://bitbucket.org/eiriklv/hearsay-common.git"
+    "url": "git://github.com/eiriklv/hearsay-common.git"
   },
   "keywords": [
     "scraper",
@@ -22,5 +19,5 @@
     "crawler"
   ],
   "author": "Eirik Vullum <evullum@gmail.com> (http://www.evconsult.no/)",
-  "homepage": "https://bitbucket.org/eiriklv/hearsay-common"
+  "homepage": "https://github.com/eiriklv/hearsay-common"
 }
