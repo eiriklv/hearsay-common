@@ -1,7 +1,7 @@
 {
   "name": "hearsay-common",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib/index",
   "description": "Common resources for Hearsay",
   "scripts": {
