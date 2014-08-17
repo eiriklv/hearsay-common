@@ -4,7 +4,6 @@
   "version": "0.0.2",
   "main": "./lib/index",
   "description": "Common resources for Hearsay",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
